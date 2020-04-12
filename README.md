@@ -6,15 +6,17 @@ Created by Katie Tieu for CPSC 599.88: Physical & Tangible HCI Final Project, Ap
 # Instructions
 To be used in conjunction with P5.js
 
-1. Download this repo and upload code to Arduino
+1. Download this repo. Ensure you have the CapacitiveSensor Arduino library imported https://github.com/arduino-libraries/CapacitiveSensor/zipball/master
 
-2. Download P5.js GUI from https://github.com/p5-serial/p5.serialcontrol/releases . Extract .zip and open "p5.serialcontrol" executable file
+2. Upload code to Arduino
 
-3. In P5.js GUI, connect to Arduino port (COM3 for Uno on Windows)
+3. Download P5.js GUI from https://github.com/p5-serial/p5.serialcontrol/releases . Extract .zip and open "p5.serialcontrol" executable file
 
-4. Open https://editor.p5js.org/ktieu/sketches/oLdjZ5iiJ in browser (ensure line 32: serial.open('COM3'); is set to the right port)
+4. In P5.js GUI, connect to Arduino port (COM3 for Uno on Windows)
 
-5. Run code in P5.js editor and watch output in the preview
+5. Open https://editor.p5js.org/ktieu/sketches/oLdjZ5iiJ in browser (ensure line 32: serial.open('COM3'); is set to the right port)
+
+6. Run code in P5.js editor and watch output in the preview
 
 # Use
 
