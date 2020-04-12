@@ -3,6 +3,8 @@ Wilson is a sock puppet chat buddy - a wearable interface which embodies hygge.
 
 Created by Katie Tieu for CPSC 599.88: Physical & Tangible HCI Final Project, April 2020.
 
+Documentation: https://katietieu7.wixsite.com/portfolio/final-project-wilson
+
 # Instructions
 To be used in conjunction with P5.js
 
@@ -22,7 +24,7 @@ To be used in conjunction with P5.js
 
 Whether you want to chat, vent to someone, or just hang out, Wilson is here for you!
 - Squeeze his right hand for a statement (joke, compliment, fun fact)
-- Squeeze his left hand for a reply ("Yes", "No", "Are you sure?")
+- Squeeze his left hand for a reply ("Yes", "No", "What do you think?")
 - Squeeze his left ear to have him play a song based on your heart rate
   - Under 100 bpm (relaxed state): plays a 'chill' song
   - Under 120 bpm (excited state): plays a 'hype' song
